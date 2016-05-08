@@ -18,7 +18,7 @@ import bn.core.RandomVariable;
 import bn.parser.BIFParser;
 import bn.parser.XMLBIFParser;
 
-public class part1 {
+public class BN {
 	
 	public static void main(String[] args) throws IOException, ParserConfigurationException, SAXException {
 		long startTime = System.currentTimeMillis();
